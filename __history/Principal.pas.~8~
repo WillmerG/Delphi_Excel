@@ -42,7 +42,7 @@ begin
   XLApp.workbooks[1].worksheets[1].cells(1,5) := 'Negrita';
   XLApp.workbooks[1].worksheets[1].cells(2,1) := 'Combinar Celdas';
 
-  XLApp.Quit;
+//  XLApp.Quit;
 //  XLApp := Unassigned;
 end;
 
